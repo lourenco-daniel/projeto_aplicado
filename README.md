@@ -2,13 +2,13 @@
 
 ## Front End
 ## Telas:
-- Cadastro do usuario;
-- Cadastro de pecas; 
-- Login;
+- Cadastro do usuário
+- Cadastro de peças 
+- Login
 - Listagem de peças
-- Listagem de Usuarios
+- Listagem de usuários
 ## Backend
-- Organização dos dados
+- Tratamento lógico e Organização dos dados
 - Criptografia de Senhas
 - Conexão com PostGresql
 - Envio de dados para o banco de dados
@@ -18,6 +18,8 @@
 - Criação de tabelas
 - Criação de atributos
 ## Infraestrutura
-- Serviço multicloud
+- Contêinerização com Docker
+- Deploy AWS EC2 com CentOS
+- Serviço multicloud para redundância
 - Domínio com SSL
 - Restrição de Acesso ao servidor
