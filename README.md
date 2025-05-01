@@ -2,7 +2,7 @@
 
 ## Front End
 ## Telas:
-- Cadastro do usuário
+- Cadastro de usuários
 - Cadastro de peças
 - Deleção de Peças
 - Atualização de Peças
