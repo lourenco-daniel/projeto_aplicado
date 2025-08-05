@@ -1,13 +1,13 @@
 import Header from "../components/Header"
 import Footer from "../components/Footer"
-import Label from "../components/Label"
-import Input from "../components/Input"
+import InputLab from "../components/InputLab"
+import Ancora from "../components/Ancora"
 export default function SubmitList() {
     return(
         <>
             <Header></Header>
-            <Label label="Suba Listas: " />
-            <Input type="file"/>
+            <InputLab type="file" label="Envie uma Lista: "/>
+            <Ancora href="../archives/modelo_lista.csv" nameFile="modelo_lista.csv" label="Baixe um Modelo"/>
             <Footer></Footer>
         </>
     )
